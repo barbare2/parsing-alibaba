@@ -36,5 +36,5 @@ while page < 20:
 
 
     page += 1
-    dilay = random.randint(15, 20)
-    sleep( dilay )
+    delay = random.randint(15, 20)
+    sleep( delay )
